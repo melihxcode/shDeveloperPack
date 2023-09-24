@@ -19,4 +19,3 @@ Features
 Extensions
 
 Information (Shaiya, Guides, Install etc.)
-
