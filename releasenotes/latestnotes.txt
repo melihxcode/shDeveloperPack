@@ -1,3 +1,13 @@
-V1=> English: </br>
+V1=> English:
+
 It is the first release and initial version of the application. Although this version has limited features, a more comprehensive platform with more features will be created in the future. Contents included in the release package;
-Client Files, Server Files, SQL - Database Programs, Editing Programs, Developer Programs, SQL Query Files, Designs, Features, Extensions, Information (Shaiya, Guides, Install etc.)
+
+Client Files, 
+Server Files, 
+SQL - Database Programs, 
+Editing Programs, 
+Developer Programs, 
+SQL Query Files, 
+Designs, Features, 
+Extensions, 
+Information (Shaiya, Guides, Install etc.)
