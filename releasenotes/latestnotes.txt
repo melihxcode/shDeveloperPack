@@ -1,5 +1,4 @@
-V1=> English:
-
+V1.0=>
 It is the first release and initial version of the application. Although this version has limited features, a more comprehensive platform with more features will be created in the future. Contents included in the release package;
 
 Client Files, 
@@ -11,3 +10,4 @@ SQL Query Files,
 Designs, Features, 
 Extensions, 
 Information (Shaiya, Guides, Install etc.)
+Feedback System
