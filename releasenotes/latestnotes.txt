@@ -1,6 +1,3 @@
-V1=> English:
+V1=> English: </br>
 It is the first release and initial version of the application. Although this version has limited features, a more comprehensive platform with more features will be created in the future. Contents included in the release package;
-Client Files, Server Files, SQL - Database Programs, Editing Programs, Developer Programs, SQL Query Files, Designs, Features, Extensions, Information (Shaiya, Guides, Install etc.)
-Turkish:
-Uygulamanın ilk çıkış ve başlangıç sürümüdür. Bu sürümde kısıtlı özellikler olsa da ilerleyen zamanda daha geniş bir özellikli platform oluşturulacaktır. Sürüm paketinde bulunan içerikler;
 Client Files, Server Files, SQL - Database Programs, Editing Programs, Developer Programs, SQL Query Files, Designs, Features, Extensions, Information (Shaiya, Guides, Install etc.)
