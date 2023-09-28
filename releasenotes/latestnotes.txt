@@ -1,7 +1,16 @@
-V1.0=>
+v1.0.0.0=>
 It is the first release and initial version of the application. Although this version has limited features, a more comprehensive platform with more features will be created in the future. Contents included in the release package;
 
-Client Files, 
+Client Files =>
+Episode 1 (US)
+Episode 3 (US, RU)
+Episode 4.5 (US,RU)
+Episode 5.4 (US, RU, TR)
+Episode 6.3 (US)
+Episode 7 (US)
+Episode 8 (US)
+
+///////////////
 Server Files, 
 SQL - Database Programs, 
 Editing Programs, 
