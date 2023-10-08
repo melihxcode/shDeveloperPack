@@ -9,13 +9,46 @@ Episode 5.4 (US, RU, TR)
 Episode 6.3 (US)
 Episode 7 (US)
 Episode 8 (US)
+--------------------------------
+Server Files =>
+Episode 4.5 Files
+Episode 6.3 Files
+-------------------------------- 
+SQL - Database Programs =>
+SQL Server 2005
+SQL Server 2008 R2
+SQL Server 2012 R2
+SQL Server 2017
+SQL Server 2019
+--------------------------------
+Editing Programs =>
+shStudio
+SahEditor
+Shaiya Data File Tool
+Shaiya Make Tool
+ShaiyaPatcher
+--------------------------------
+Developer Programs =>
+HxD
+ollydbg
+xampp
+wamp
+Visual Studio 
+Visual Studio Code
+--------------------------------
+SQL Query Files =>
+77 SQL Queries
+--------------------------------
+Designs =>
+Episode 4.5 Site Template
+Episode 8 Site Template
+Custom Site Template
+Custom Site Template
+--------------------------------
+Features =>
+Episode 4.5 {Soon}
+Episode 5.4 (Fast Reroll, Fast Enchant, Fast Transition, Remove Updater, MultiClient)
+Episode 6.3 {Soon}
 
-///////////////
-Server Files, 
-SQL - Database Programs, 
-Editing Programs, 
-Developer Programs, 
-SQL Query Files, 
-Designs, 
-Features, 
+--------------------------------
 Feedback System
