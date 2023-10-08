@@ -1,1 +1,1 @@
-Updated app versions will be kept here
+The latest version will be in this folder.  You can find and download all versions by version folder.
