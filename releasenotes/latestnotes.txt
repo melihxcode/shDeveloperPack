@@ -1,3 +1,9 @@
+v1.0.0.2=>
+--------------------------------
+Fixed all SQL Queries (now available for download)
+Fixed ShaiyaServer Files (now available for download)
+--------------------------------
+
 v1.0.0.0=>
 It is the first release and initial version of the application. Although this version has limited features, a more comprehensive platform with more features will be created in the future. Contents included in the release package;
 
