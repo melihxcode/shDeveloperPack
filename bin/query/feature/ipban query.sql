@@ -1,0 +1,1 @@
+UPDATE PS_UserData.dbo.Users_Master set Status = -5 WHERE UserIp = 'ip here'
