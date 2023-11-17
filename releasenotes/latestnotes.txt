@@ -1,3 +1,47 @@
+v1.0.8.7=>
+--------------------------------
+Fixed Clients: {EP3 RU, EP4.5 RU, EP5.4 RU and FR, EP6.3 EN, EP8 KR and CN}
+
+Added ShaiyaServer Files: 
+- Episode 3
+- Episode 5.4
+
+Re-Added SQL Programs:
+- SQL 2005 Package (x32 and x64)
+- SQL 2008 R2 Package (x32 and x64)
+- SQL 2012 R2 Package (x32 and x64)
+- SQL 2017 Package
+- SQL 2019 Package
+
+Re-Added Edit Programs:
+- shStudio
+- SahEditor
+- Shaiya Data File Tool
+- Shaiya Make Tool
+- ShaiyaPatcher
+
+Re-Added Developer Programs:
+- Cheat Engine
+- ollydbg
+- xampp
+- wamp
+- HxD
+- Visual Studio
+- Visual Studio Code(x32 and x64)
+
+Re-Added Designs:
+- Website Templates
+- Interface (1 file)
+
+Re-Added Features:
+EP5.4;
+- Fast Reroll
+- Fast Enchant
+- Fast Transition
+- Multi-Client
+- Remove Updater
+--------------------------------
+
 v1.0.0.2=>
 --------------------------------
 Fixed all SQL Queries (now available for download)
