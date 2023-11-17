@@ -1,0 +1,30 @@
+Thanks to Elessar for offset values.
+
+004B8180 - push 64
+nop
+nop
+nop
+
+0042EE37 - cmp eax, 64
+nop
+nop
+
+0042ECCB - je to jmp
+0042EAEF - je to jmp
+0042EE4C - je to jmp
+0042F815 - je to jmp
+0042FA60 - je to jmp
+0042F689 - je to jmp
+0042E1EF - je to jmp
+0042E4E6 - je to jmp
+0042DD7A - je to jmp
+0042E41E - je to jmp
+0042F518 - je to jmp
+0042EF86 - je to jmp
+0042E614 - je to jmp
+0042D54A - je to jmp
+0042D723 - je to jmp
+0042E31C - je to jmp
+0042DF6F - je to jmp
+0042E829 - je to jmp
+0042E979 - je to jmp

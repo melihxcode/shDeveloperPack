@@ -1,0 +1,4 @@
+Thanks to Elessar for Offset Value
+
+0040C462 - jnz to jmp
+0040C486 - je to jmp

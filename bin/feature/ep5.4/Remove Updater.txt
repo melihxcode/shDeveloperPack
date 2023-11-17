@@ -1,0 +1,3 @@
+Thanks to Elessar for offset value:
+
+0040C7C0 - je to jmp

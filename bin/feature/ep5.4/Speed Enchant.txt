@@ -1,0 +1,7 @@
+Speed Enchant(Bowie)
+004E2419 - push 2
+004E241B - push 2
+004E244A - push 2
+004E244C - push 2
+004E245D - push 3
+004E2466 - push 3
